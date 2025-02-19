@@ -4,9 +4,9 @@ This repository contains various projects and codes that I developed during my t
 
 ## Projects
 
-- **[Maioridade]**: [Brief description of the project, technologies used, and what it achieves]
-- **[Unicórnio]**: [Brief description of the project, technologies used, and what it achieves]
-- **[Projeto Gamer]**: [Brief description of the project, technologies used, and what it achieves]
+- **[Maioridade]**: This code prompts for a name and age, then calculates whether the person is of legal age (maior de idade) or a minor (menor de idade)
+- **[Unicórnio]**: This project aims to identify and verify the largest unicorn companies (startups experiencing rapid growth)
+- **[Projeto Gamer]**: This project will examine the sales volume of video games worldwide over the past several years.
 
 ## Technologies Used
 
